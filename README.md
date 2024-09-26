@@ -1,4 +1,4 @@
-# SML-COMMANDS
+# DML-COMMANDS
 My entri work
 
 CREATE TABLE Managers(
